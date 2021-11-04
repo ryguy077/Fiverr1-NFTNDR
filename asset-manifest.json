@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Fiverr1-NFTNDR/static/css/main.7241fd27.chunk.css",
-    "main.js": "/Fiverr1-NFTNDR/static/js/main.687231fe.chunk.js",
-    "main.js.map": "/Fiverr1-NFTNDR/static/js/main.687231fe.chunk.js.map",
+    "main.js": "/Fiverr1-NFTNDR/static/js/main.ec067066.chunk.js",
+    "main.js.map": "/Fiverr1-NFTNDR/static/js/main.ec067066.chunk.js.map",
     "runtime-main.js": "/Fiverr1-NFTNDR/static/js/runtime-main.682aee88.js",
     "runtime-main.js.map": "/Fiverr1-NFTNDR/static/js/runtime-main.682aee88.js.map",
     "static/js/2.36da3d42.chunk.js": "/Fiverr1-NFTNDR/static/js/2.36da3d42.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.682aee88.js",
     "static/js/2.36da3d42.chunk.js",
     "static/css/main.7241fd27.chunk.css",
-    "static/js/main.687231fe.chunk.js"
+    "static/js/main.ec067066.chunk.js"
   ]
 }
