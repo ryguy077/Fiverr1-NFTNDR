@@ -1,0 +1,14 @@
+.App {
+  color: black;
+  text-align: center;
+  background-image: url('./images/Background.png');
+  height: 950px;
+  width: 100%;
+  min-height: 100%;
+  min-width: 100%;
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+}

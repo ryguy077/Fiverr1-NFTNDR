@@ -1,0 +1,10 @@
+.home{
+    background-color: #b4c51c;
+    padding: 8px 20px;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:5px;
+    cursor:pointer;
+    vertical-align: middle;
+    color: #fdfdfa;
+}
