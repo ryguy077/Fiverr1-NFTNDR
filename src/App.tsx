@@ -26,9 +26,9 @@ import AppHeader, { AppHeaderProps } from "./containers/AppHeader";
 
 // build an instance of our AppHeaderProps to pass to the AppHeader component
 const headerProps: AppHeaderProps = {
-  title: "Crypto Bananas",
-  description: "Connect your wallet to Mint your very own Crypto Bananas!",
-  mintprice: "Mint Fee: 0.175 SOL, plus gas for each Banana"
+  title: "NFT-NDR",
+  description: "Connect your wallet to Mint your very own NFT!",
+  mintprice: "Mint Fee: 0.1 SOL, plus gas for each NFT"
 };
 
 const treasury = new anchor.web3.PublicKey(

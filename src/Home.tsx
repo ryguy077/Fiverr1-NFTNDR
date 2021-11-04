@@ -175,12 +175,12 @@ const Home = (props: HomeProps) => {
                 renderer={renderCounter}
               />
             )}
-            <img width="120" height="120" src="https://crypto-bananas.com/wp-content/uploads/2021/10/output-onlinegiftools-1.gif" alt="" loading="lazy"/>
+            <img width="120" height="120" src="https://solana.com/branding/new/exchange/exchange-black.png" alt="" loading="lazy"/>
           </MintButton>
         )}
       </MintContainer>
     {wallet && (
-        <p>There are {NFTRemaining} Banana NFTs Remaining of 1,228 for this Pre-Launch!</p>
+        <p>There are {NFTRemaining} NFTs Remaining of 25!</p>
         )}
       {wallet && (
         <p>Address: {shortenAddress(wallet.publicKey.toBase58() || "")}</p>

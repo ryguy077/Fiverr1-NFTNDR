@@ -17,7 +17,7 @@ const AppHeader: React.FC<AppHeaderProps> = React.memo(
       <header className="app-header">
         <section className="app-title">
         <a href="https://crypto-bananas.com">
-							<img width="100" height="100" src="https://crypto-bananas.com/wp-content/uploads/2021/10/output-onlinepngtools-4.png"/>
+							<img width="100" height="100" src="https://solana.com/branding/new/exchange/exchange-black.png"/>
           </a> <a href="https://crypto-bananas.com"></a>
           <a href="https://crypto-bananas.com" className="home">HOME</a>
           <br/><br/><br/><br/><br/><br/><br/><br/><br/>
