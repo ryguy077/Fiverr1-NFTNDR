@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Fiverr1-NFTNDR/static/css/main.7241fd27.chunk.css",
-    "main.js": "/Fiverr1-NFTNDR/static/js/main.fbd23378.chunk.js",
-    "main.js.map": "/Fiverr1-NFTNDR/static/js/main.fbd23378.chunk.js.map",
+    "main.js": "/Fiverr1-NFTNDR/static/js/main.44a33431.chunk.js",
+    "main.js.map": "/Fiverr1-NFTNDR/static/js/main.44a33431.chunk.js.map",
     "runtime-main.js": "/Fiverr1-NFTNDR/static/js/runtime-main.682aee88.js",
     "runtime-main.js.map": "/Fiverr1-NFTNDR/static/js/runtime-main.682aee88.js.map",
-    "static/js/2.36da3d42.chunk.js": "/Fiverr1-NFTNDR/static/js/2.36da3d42.chunk.js",
-    "static/js/2.36da3d42.chunk.js.map": "/Fiverr1-NFTNDR/static/js/2.36da3d42.chunk.js.map",
+    "static/js/2.04854434.chunk.js": "/Fiverr1-NFTNDR/static/js/2.04854434.chunk.js",
+    "static/js/2.04854434.chunk.js.map": "/Fiverr1-NFTNDR/static/js/2.04854434.chunk.js.map",
     "static/js/3.2abe565b.chunk.js": "/Fiverr1-NFTNDR/static/js/3.2abe565b.chunk.js",
     "static/js/3.2abe565b.chunk.js.map": "/Fiverr1-NFTNDR/static/js/3.2abe565b.chunk.js.map",
     "index.html": "/Fiverr1-NFTNDR/index.html",
     "static/css/main.7241fd27.chunk.css.map": "/Fiverr1-NFTNDR/static/css/main.7241fd27.chunk.css.map",
-    "static/js/2.36da3d42.chunk.js.LICENSE.txt": "/Fiverr1-NFTNDR/static/js/2.36da3d42.chunk.js.LICENSE.txt",
+    "static/js/2.04854434.chunk.js.LICENSE.txt": "/Fiverr1-NFTNDR/static/js/2.04854434.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Fiverr1-NFTNDR/static/media/Background.d041fc87.png"
   },
   "entrypoints": [
     "static/js/runtime-main.682aee88.js",
-    "static/js/2.36da3d42.chunk.js",
+    "static/js/2.04854434.chunk.js",
     "static/css/main.7241fd27.chunk.css",
-    "static/js/main.fbd23378.chunk.js"
+    "static/js/main.44a33431.chunk.js"
   ]
 }
