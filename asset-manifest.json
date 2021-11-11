@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Fiverr1-NFTNDR/static/css/main.7241fd27.chunk.css",
-    "main.js": "/Fiverr1-NFTNDR/static/js/main.1a947056.chunk.js",
-    "main.js.map": "/Fiverr1-NFTNDR/static/js/main.1a947056.chunk.js.map",
-    "runtime-main.js": "/Fiverr1-NFTNDR/static/js/runtime-main.682aee88.js",
-    "runtime-main.js.map": "/Fiverr1-NFTNDR/static/js/runtime-main.682aee88.js.map",
-    "static/js/2.cdb6e884.chunk.js": "/Fiverr1-NFTNDR/static/js/2.cdb6e884.chunk.js",
-    "static/js/2.cdb6e884.chunk.js.map": "/Fiverr1-NFTNDR/static/js/2.cdb6e884.chunk.js.map",
-    "static/js/3.2abe565b.chunk.js": "/Fiverr1-NFTNDR/static/js/3.2abe565b.chunk.js",
-    "static/js/3.2abe565b.chunk.js.map": "/Fiverr1-NFTNDR/static/js/3.2abe565b.chunk.js.map",
+    "main.css": "/Fiverr1-NFTNDR/static/css/main.36548f1e.chunk.css",
+    "main.js": "/Fiverr1-NFTNDR/static/js/main.b84adea8.chunk.js",
+    "main.js.map": "/Fiverr1-NFTNDR/static/js/main.b84adea8.chunk.js.map",
+    "runtime-main.js": "/Fiverr1-NFTNDR/static/js/runtime-main.d5abed73.js",
+    "runtime-main.js.map": "/Fiverr1-NFTNDR/static/js/runtime-main.d5abed73.js.map",
+    "static/js/2.5a67f784.chunk.js": "/Fiverr1-NFTNDR/static/js/2.5a67f784.chunk.js",
+    "static/js/2.5a67f784.chunk.js.map": "/Fiverr1-NFTNDR/static/js/2.5a67f784.chunk.js.map",
+    "static/js/3.d6d2bee4.chunk.js": "/Fiverr1-NFTNDR/static/js/3.d6d2bee4.chunk.js",
+    "static/js/3.d6d2bee4.chunk.js.map": "/Fiverr1-NFTNDR/static/js/3.d6d2bee4.chunk.js.map",
     "index.html": "/Fiverr1-NFTNDR/index.html",
-    "static/css/main.7241fd27.chunk.css.map": "/Fiverr1-NFTNDR/static/css/main.7241fd27.chunk.css.map",
-    "static/js/2.cdb6e884.chunk.js.LICENSE.txt": "/Fiverr1-NFTNDR/static/js/2.cdb6e884.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Fiverr1-NFTNDR/static/media/Background.d041fc87.png"
+    "static/css/main.36548f1e.chunk.css.map": "/Fiverr1-NFTNDR/static/css/main.36548f1e.chunk.css.map",
+    "static/js/2.5a67f784.chunk.js.LICENSE.txt": "/Fiverr1-NFTNDR/static/js/2.5a67f784.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Fiverr1-NFTNDR/static/media/solana1920.5c8cc0ec.png",
+    "static/media/media.css": "/Fiverr1-NFTNDR/static/media/Background768px.af6f422f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.682aee88.js",
-    "static/js/2.cdb6e884.chunk.js",
-    "static/css/main.7241fd27.chunk.css",
-    "static/js/main.1a947056.chunk.js"
+    "static/js/runtime-main.d5abed73.js",
+    "static/js/2.5a67f784.chunk.js",
+    "static/css/main.36548f1e.chunk.css",
+    "static/js/main.b84adea8.chunk.js"
   ]
 }
