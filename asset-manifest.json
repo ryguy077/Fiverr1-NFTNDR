@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Fiverr1-NFTNDR/static/css/main.36548f1e.chunk.css",
-    "main.js": "/Fiverr1-NFTNDR/static/js/main.b84adea8.chunk.js",
-    "main.js.map": "/Fiverr1-NFTNDR/static/js/main.b84adea8.chunk.js.map",
-    "runtime-main.js": "/Fiverr1-NFTNDR/static/js/runtime-main.d5abed73.js",
-    "runtime-main.js.map": "/Fiverr1-NFTNDR/static/js/runtime-main.d5abed73.js.map",
-    "static/js/2.5a67f784.chunk.js": "/Fiverr1-NFTNDR/static/js/2.5a67f784.chunk.js",
-    "static/js/2.5a67f784.chunk.js.map": "/Fiverr1-NFTNDR/static/js/2.5a67f784.chunk.js.map",
-    "static/js/3.d6d2bee4.chunk.js": "/Fiverr1-NFTNDR/static/js/3.d6d2bee4.chunk.js",
-    "static/js/3.d6d2bee4.chunk.js.map": "/Fiverr1-NFTNDR/static/js/3.d6d2bee4.chunk.js.map",
-    "index.html": "/Fiverr1-NFTNDR/index.html",
-    "static/css/main.36548f1e.chunk.css.map": "/Fiverr1-NFTNDR/static/css/main.36548f1e.chunk.css.map",
-    "static/js/2.5a67f784.chunk.js.LICENSE.txt": "/Fiverr1-NFTNDR/static/js/2.5a67f784.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Fiverr1-NFTNDR/static/media/solana1920.5c8cc0ec.png",
-    "static/media/media.css": "/Fiverr1-NFTNDR/static/media/Background768px.af6f422f.jpg"
+    "main.css": "/static/css/main.b8145ac6.chunk.css",
+    "main.js": "/static/js/main.74c88065.chunk.js",
+    "main.js.map": "/static/js/main.74c88065.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.54e8a435.js",
+    "runtime-main.js.map": "/static/js/runtime-main.54e8a435.js.map",
+    "static/js/2.ea3d74b9.chunk.js": "/static/js/2.ea3d74b9.chunk.js",
+    "static/js/2.ea3d74b9.chunk.js.map": "/static/js/2.ea3d74b9.chunk.js.map",
+    "static/js/3.d6d2bee4.chunk.js": "/static/js/3.d6d2bee4.chunk.js",
+    "static/js/3.d6d2bee4.chunk.js.map": "/static/js/3.d6d2bee4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b8145ac6.chunk.css.map": "/static/css/main.b8145ac6.chunk.css.map",
+    "static/js/2.ea3d74b9.chunk.js.LICENSE.txt": "/static/js/2.ea3d74b9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/solana1920.5c8cc0ec.png",
+    "static/media/media.css": "/static/media/Background768px.af6f422f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5abed73.js",
-    "static/js/2.5a67f784.chunk.js",
-    "static/css/main.36548f1e.chunk.css",
-    "static/js/main.b84adea8.chunk.js"
+    "static/js/runtime-main.54e8a435.js",
+    "static/js/2.ea3d74b9.chunk.js",
+    "static/css/main.b8145ac6.chunk.css",
+    "static/js/main.74c88065.chunk.js"
   ]
 }
