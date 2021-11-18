@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/mint.nftinder.app/static/css/main.eadb488e.chunk.css",
-    "main.js": "/mint.nftinder.app/static/js/main.afb99567.chunk.js",
-    "main.js.map": "/mint.nftinder.app/static/js/main.afb99567.chunk.js.map",
-    "runtime-main.js": "/mint.nftinder.app/static/js/runtime-main.c73db99f.js",
-    "runtime-main.js.map": "/mint.nftinder.app/static/js/runtime-main.c73db99f.js.map",
-    "static/js/2.95f340c7.chunk.js": "/mint.nftinder.app/static/js/2.95f340c7.chunk.js",
-    "static/js/2.95f340c7.chunk.js.map": "/mint.nftinder.app/static/js/2.95f340c7.chunk.js.map",
-    "static/js/3.d6d2bee4.chunk.js": "/mint.nftinder.app/static/js/3.d6d2bee4.chunk.js",
-    "static/js/3.d6d2bee4.chunk.js.map": "/mint.nftinder.app/static/js/3.d6d2bee4.chunk.js.map",
-    "index.html": "/mint.nftinder.app/index.html",
-    "static/css/main.eadb488e.chunk.css.map": "/mint.nftinder.app/static/css/main.eadb488e.chunk.css.map",
-    "static/js/2.95f340c7.chunk.js.LICENSE.txt": "/mint.nftinder.app/static/js/2.95f340c7.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/mint.nftinder.app/static/media/solana1920.5c8cc0ec.png",
-    "static/media/media.css": "/mint.nftinder.app/static/media/Background768px.af6f422f.jpg"
+    "main.css": "/static/css/main.670b6435.chunk.css",
+    "main.js": "/static/js/main.afb99567.chunk.js",
+    "main.js.map": "/static/js/main.afb99567.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.54e8a435.js",
+    "runtime-main.js.map": "/static/js/runtime-main.54e8a435.js.map",
+    "static/js/2.4625ee0c.chunk.js": "/static/js/2.4625ee0c.chunk.js",
+    "static/js/2.4625ee0c.chunk.js.map": "/static/js/2.4625ee0c.chunk.js.map",
+    "static/js/3.d6d2bee4.chunk.js": "/static/js/3.d6d2bee4.chunk.js",
+    "static/js/3.d6d2bee4.chunk.js.map": "/static/js/3.d6d2bee4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.670b6435.chunk.css.map": "/static/css/main.670b6435.chunk.css.map",
+    "static/js/2.4625ee0c.chunk.js.LICENSE.txt": "/static/js/2.4625ee0c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/solana1920.5c8cc0ec.png",
+    "static/media/media.css": "/static/media/Background768px.af6f422f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c73db99f.js",
-    "static/js/2.95f340c7.chunk.js",
-    "static/css/main.eadb488e.chunk.css",
+    "static/js/runtime-main.54e8a435.js",
+    "static/js/2.4625ee0c.chunk.js",
+    "static/css/main.670b6435.chunk.css",
     "static/js/main.afb99567.chunk.js"
   ]
 }
